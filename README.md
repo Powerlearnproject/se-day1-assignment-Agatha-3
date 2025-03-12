@@ -55,5 +55,15 @@ Unit tests - are close to the source of an application, They consist in testing 
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is designing and refining input queries to effectively interact with AI models
+It saves time, enhances response quality
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example of a Vague Prompt:
+"Tell me about design."
+Improved Prompt:
+"Explain the principles of interior design, including balance, contrast, and harmony, with examples."
+The improved prompt is more effective because of the following:
+Clarity – Specifies that the focus is on interior design, avoiding a broad or irrelevant response.
+Specificity – Identifies key principles (balance, contrast, and harmony) to guide the AI’s response.
+Conciseness – Keeps the request clear and to the point, reducing ambiguity.
+Contextual Relevance – Requests examples, ensuring a more practical and informative answer.
